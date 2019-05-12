@@ -4,7 +4,7 @@ from selenium import webdriver
 
 # import the webdriver
 driver = webdriver.Chrome("/Users/gius/Downloads/chromedriver74")
-# inser the tripadvisor's website of one attraction 
+# insert the tripadvisor's website of one attraction 
 driver.get("https://www.tripadvisor.it/Attraction_Review-g657290-d2213040-Reviews-Ex_Stabilimento_Florio_delle_Tonnare_di_Favignana_e_Formica-Isola_di_Favig.html")
 
 # function to check if the button is on the page
