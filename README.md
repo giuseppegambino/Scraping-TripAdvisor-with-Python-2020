@@ -9,4 +9,4 @@ Features implemented:
   - The click function to change the page
   - The click function to select only the desired rating (ex: if you wanna only the reviews with 5 stars)
   
- 
+In the .csv file "reviewALL.csv" there are the dataset approximately with 10000 italian reviews labeled from 1 to 5 stars.
