@@ -11,4 +11,4 @@ Features implemented:
   
 In the .csv file "reviewALL.csv" there is an exemple of dataset approximately with 10000 italian reviews labeled from 1 to 5 stars.
 
-* This activity has been supported by a grant from the Project IDEHA - PON "Ricerca e Innovazione" 2014-2020, Azione II *
+*This activity has been supported by a grant from the Project IDEHA - PON "Ricerca e Innovazione" 2014-2020, Azione II *
