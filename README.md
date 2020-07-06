@@ -1,6 +1,6 @@
 # Scraping TripAdvisor with Selenium 2019 *
 
-Python implementation of web scraping of TripAdvisor with Selenium in a new 2019 website.
+Python implementation of web scraping of TripAdvisor with Selenium in a new 2020 website.
 
 The python function is fully commented, write me if you have doubts.
 
