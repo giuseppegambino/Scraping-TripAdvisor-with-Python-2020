@@ -15,7 +15,7 @@ Features implemented:
   - Csv file with the date, the score, the title and the full review!
   
 How to use: 
-  - First approach: download the python file, open it with a text editor and edit the default field (csv file path, number of pages, tripadvisor url)
+  - First approach: download the python file, open it and edit the default fields (csv file path, number of pages, tripadvisor url)
   
   - Second approach: download the file and launch it directly from the terminal, passing:
       - the path of your csv file where the reviews will be stored
