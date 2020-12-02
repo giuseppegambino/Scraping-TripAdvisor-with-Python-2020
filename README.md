@@ -21,13 +21,13 @@ What I used:
   - Macbook Pro 13" M1 2020 with macOS Big Sur 11.0.1
   
 How to use: 
-  First approach: download the python file, open it with a text editor and edit the default field (csv file path, number of pages, tripadvisor url)
+  - First approach: download the python file, open it with a text editor and edit the default field (csv file path, number of pages, tripadvisor url)
   
-  Second approach: download the file and launch it directly from the terminal, passing:
+  - Second approach: download the file and launch it directly from the terminal, passing:
       - the path of your csv file where the reviews will be stored
       - the number of pages of the desired website that you want to scrape
       - the url of tripadvisor website that you want to scrape
 
-Example: python3 /Users/gius/Desktop/Script/tripadvisor/things_to_do_scraper.py desktop/reviews.csv 50 https://www.tripadvisor.com/Attraction_Review-g187791-d192285-Reviews-Colosseum-Rome_Lazio.html
+Code to paste into terminal: python3 path_to_downloaded_script/things_to_do_scraper.py desktop/reviews.csv 50 https://www.tripadvisor.com/Attraction_Review-g187791-d192285-Reviews-Colosseum-Rome_Lazio.html
 
 *This activity has been supported by a grant from the Project IDEHA - PON "Ricerca e Innovazione" 2014-2020 - Innovation for Data Elaboration in Heritage Areas, Azione II
