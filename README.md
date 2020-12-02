@@ -4,7 +4,7 @@ Python implementation of web scraping of TripAdvisor with Selenium in a new 2020
 
 There are two scripts:
   - "restaurants_scraper.py" to scrape restaurant
-  - "things_to_do_scraper.py" to scrape attraction and monuments
+  - "things_to_do_scraper.py" to scrape hotels, attraction and monuments.
   
 The python function is commented, write me if you have doubts.
 If you have a slow connection and you encounter code problems, try increasing the seconds of time.sleep () function
