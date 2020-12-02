@@ -18,7 +18,7 @@ if (len(sys.argv) == 4):
     num_page = int(sys.argv[2])
     url = sys.argv[3]
 
-# Import the webdriver, chrome driver is recommended
+# Import the webdriver
 driver = webdriver.Safari()
 driver.get(url)
 
