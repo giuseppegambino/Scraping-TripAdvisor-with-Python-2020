@@ -23,7 +23,7 @@ driver = webdriver.Safari()
 driver.get(url)
 
 # Open the file to save the review
-csvFile = open(path_to_file, 'a')
+csvFile = open(path_to_file, 'a', encoding="utf-8")
 csvWriter = csv.writer(csvFile)
 
 # change the value inside the range to save more or less reviews
